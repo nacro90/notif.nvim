@@ -27,8 +27,8 @@ You can override the options like following:
 
 ```lua
 require('notif').setup {
-  create_commands = true,
-  message_highlight = 'WarningMsg',
+  create_commands = true, -- Allows to create vim commands like `:Notif`
+  message_highlight = 'WarningMsg', -- Highlight of the printed notification message
 }
 ```
 
