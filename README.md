@@ -52,7 +52,7 @@ After pressing `<CR>`, you will be prompted for the notification message in the
 command line.
 
 The time suffixes (e.g 8m, 1s) are the same as the suffixes for Unix `sleep`
-command. You can emmit the suffix, if so the notification assumes the duration
+command. You can ommit the suffix, if so the notification assumes the duration
 as seconds.
 
 
