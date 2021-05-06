@@ -2,6 +2,9 @@
 
 Notification and reminder helper for Neovim.
 
+**Currently this plugin is WIP. It may be useful for some cases but it is not
+ready for daily usage now.**
+
 ## Features
 
 - Set a notification for given duration with a message
