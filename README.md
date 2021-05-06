@@ -34,7 +34,7 @@ require('notif').setup {
 
 You can select your desired highlight with `:highlight` command.
 
-## Create notification
+### Create notification
 
 Create a notification for 8 minutes with message `heyoo`:
 
