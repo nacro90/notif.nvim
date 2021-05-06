@@ -45,7 +45,7 @@ Create a notification for 8 minutes with message `heyoo`:
 Create a 12 seconds notification with a long message:
 
 ```viml
-:Notif 12m
+:Notif 12s
 ```
 
 After pressing `<CR>`, you will be prompted for the notification message in the
